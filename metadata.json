@@ -1,0 +1,8 @@
+{
+  "name": "Remix Juiceur - Pure Cold-Pressed Real Fruit Juices",
+  "description": "Experience Juiceur\u0027s authentic Mango Juice and Grape Juice. 100% real fruit, natural, vegan, and squeezed to perfection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
